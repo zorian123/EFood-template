@@ -1,5 +1,5 @@
 # 🍔 EFood template
-- [👀 View the result](https://27218.github.io/EFood-template/)
+- [👀 View the result](https://zorian123.github.io/EFood-template/)
 - [🔗 Template](https://www.figma.com/design/FRgRLcPR6vraPfksLKFNNi/eFoodWebdesign) - if it doesn't work, download the [`template.fig`](template.fig) file
 
 ![image](https://github.com/user-attachments/assets/9867c70a-131a-4e7a-997b-79026c6ed289)
